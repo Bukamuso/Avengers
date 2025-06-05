@@ -1,3 +1,18 @@
 .gallery img{
     width: 100%;
 }
+
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color: red;
+}
+
+#menu a{
+    color: midnightblue;
+    font: Helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+
+}
