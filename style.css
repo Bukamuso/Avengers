@@ -24,3 +24,27 @@
 #menu a:hover{
     color: silver;
 }
+
+.thor-page #menu {
+    background-color: gray;
+}
+
+.ironman-page #menu {
+    background-color: red;
+}
+
+.hawkeye-page #menu {
+    background-color: purple;
+}
+
+.captain-page #menu {
+    background-color: blue;
+}
+
+.widow-page #menu {
+    background-color: black;
+}
+
+.hulk-page #menu {
+    background-color: green;
+}
